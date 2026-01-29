@@ -1,5 +1,3 @@
-# to-do-on-web
-
 # 📝 To-Do List (Mini Web App)
 
 A simple and clean to-do list web application built with **vanilla HTML, CSS, and JavaScript**.  
