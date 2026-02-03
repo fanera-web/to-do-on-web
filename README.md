@@ -15,7 +15,6 @@ The project focuses on minimalism, readability, and convenient code structure.
 - ✏️ Edit tasks directly (contenteditable)
 - 🌗 Light / Dark theme toggle
 - 📱 Responsive layout (mobile friendly)
-- 🎨 Modern minimal UI with CSS variables
 
 ## Dark theme:
 
