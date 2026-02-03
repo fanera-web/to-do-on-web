@@ -1,6 +1,22 @@
 :root {
-    --bg-main: #F8FAFC;
+    --bg-main: #e2ecf6;
+    --bg-card: white;
+    --bg-header: #F1F5F9;
+
     --text-main: #0F172A;
+    --text-muted: #64748B;
+    --text-in-case: white;
+
+    --accent: #38BDF8;
+    --accent-hover: #0EA5E9;
+
+    --danger: #EF4444;
+
+    --radius-sm: 8px;
+    --radius-md: 12px;
+
+    --shadow-sm: 0 2px 6px rgba(0,0,0,0.06);
+    --shadow-md: 0 8px 20px rgba(0,0,0,0.08);
 }
 
 html, body {
@@ -42,3 +58,4 @@ body::-webkit-scrollbar {
     li, p { max-width: 90%; }
 
 }
+
